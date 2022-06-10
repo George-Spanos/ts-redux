@@ -1,0 +1,9 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "people-data-access": "libs/people/data-access",
+    "people-fe": "apps/people-fe",
+    "people-fe-e2e": "apps/people-fe-e2e"
+  }
+}
